@@ -1,3 +1,6 @@
-/**
- * Created by laurie on 12/13/15.
- */
+var context = require.context('./test', true, /.+\.spec\.jsx?$/);
+
+require('core-js/es5');
+
+context.keys().forEach(context);
+module.exports = context;
