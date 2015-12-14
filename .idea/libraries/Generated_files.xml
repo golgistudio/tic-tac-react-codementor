@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/karma-mocha/lib/adapter-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/karma-mocha/lib/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/karma-mocha/gruntfile-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/karma-mocha/lib/adapter-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/karma-mocha/lib/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/karma-mocha/gruntfile-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
